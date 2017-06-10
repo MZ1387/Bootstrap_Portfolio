@@ -1,4 +1,4 @@
 # My Developer's Portfolio
 
-## Live Link (If relevant)
+## Live Link
  - https://mz1387.github.io/Portfolio/
