@@ -1,0 +1,22 @@
+.purple {
+  background-color:#59429e;
+}
+
+a {
+  color:#59429e;
+  text-decoration:none;
+}
+
+a:focus, a:hover {
+  color:#ffffff;
+  text-decoration:underline;
+}
+
+.portfolio-image {
+  margin-top:20px;
+}
+
+.img-rounded.img-responsive {
+  margin:0 auto;
+}
+
